@@ -1,7 +1,7 @@
 <h1 align="center"> Samuel Gemberling </h1>
 <h4 align="center">  I am a very inquisitive and disciplined software developer, during my 11 years in various martial arts I learned that I will never know everything, so I am excited to learn anything! From something as large as a different way somebody approaches their coding process to something as small as a nuanced edge case. I take pride in how hard I work and I love creating tools to make other people’s lives easier. </h4> <hr>
 <div align="center">
-  <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=codingsalmon&count_private=true&&theme=react" />  </a>
+  <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=codingsalmon&hide=issues&count_private=true&&theme=react" />  </a>
   <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjpreston96&layout=compact&theme=react" /></a> 
   <hr>
   <div>
